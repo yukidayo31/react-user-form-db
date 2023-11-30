@@ -1,9 +1,34 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Robert",
+      "email": "rob23@gmail.com",
+      "password": "robert123"
+    },
+    {
+      "id": 2,
+      "name": "Schwartz",
+      "email": "schwartz16@gmail.com",
+      "password": "schwartz123"
+    },
+    {
+      "id": 3,
+      "name": "Emily",
+      "email": "emily73@gmail.com",
+      "password": "emily123"
+    },
+    {
+      "id": 4,
+      "name": "Dante",
+      "email": "dante08@gmail.com",
+      "password": "dante123"
+    },
+    {
+      "id": 5,
+      "name": "Ellen",
+      "email": "ellen59@gmail.com",
+      "password": "ellen123"
+    }
+  ]
 }
